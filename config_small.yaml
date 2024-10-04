@@ -1,0 +1,8 @@
+batch_size: 2
+batch_size_val: 4
+epochs: 100
+validation_step: 1
+guidance_scale: 8
+num_train_timesteps: 1000
+scheduler: 'ddpm' # 'ddim', 'ddpm'
+num_val_timesteps: 1000
