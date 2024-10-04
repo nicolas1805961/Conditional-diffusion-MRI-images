@@ -1,1 +1,1 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/nicolas1805961/Conditional-diffusion-MRI-images/blob/main/example.png)
